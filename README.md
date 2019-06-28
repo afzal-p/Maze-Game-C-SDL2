@@ -1,7 +1,7 @@
-# Maze_Game_SDL2.0
+# C-Mont-Maze-Quake by Afzal Patel.0
 
 
-C-Mont-Maze-Quake by Afzal Patel.
+
 
 After an earthquake ruined the terrain of Claremont, it is up to the player
 to find the raft and escape using the arrow keys...
