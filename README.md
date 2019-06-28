@@ -1,4 +1,4 @@
-# C-Mont-Maze-Quake by Afzal Patel.0
+# C-Mont-Maze-Quake by Afzal 
 
 
 
