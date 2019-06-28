@@ -17,6 +17,9 @@ Pannav from kissPNG:
 This game utilizes their rainbow star PNG.
 
 
+Also lazyfoo SDL2.0.
+
+
 Link to Game Demo:
 
 https://www.youtube.com/watch?v=1Y1QkIm4CWY
