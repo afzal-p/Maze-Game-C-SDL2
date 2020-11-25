@@ -1,10 +1,6 @@
-# C-Mont-Maze-Quake by Afzal 
+# Maze by Afzal 
 
-
-
-
-After an earthquake ruined the terrain of Claremont, it is up to the player
-to find the raft and escape using the arrow keys...
+it is up to the player to escape using the arrow keys or just chill out and listen to the bgm
 
 Credits:
 
