@@ -1,16 +1,17 @@
 # Maze by Afzal 
 
-it is up to the player to escape using the arrow keys or just chill out and listen to the bgm
+It is up to the player to escape using the arrow keys or just chill out and listen to the bgm.
 
 Credits:
 
-The background music and teleport sound effect used were produced by Afzal.
+I created the background music and sound effects.
+
 
 "Spring", "9Aswin909"4, "Georges 'TRaK' Grondinon", and "You're Perfect Studio" from OpenGameArt:
-This game utilizes the floor,water,shadow PNG's from these creators.
+This game utilizes the floor, water, and shadow PNG's from these creators. Thanks
 
 Pannav from kissPNG:
-This game utilizes their rainbow star PNG.
+This game utilizes their rainbow star PNG. thnx
 
 
 Also lazyfoo SDL2.0.
